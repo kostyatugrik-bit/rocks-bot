@@ -8,7 +8,7 @@ from aiogram.client.default import DefaultBotProperties
 
 # === НАСТРОЙКИ ===
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8653667847:AAE0KDDbxjSeonByvttGc5mpmW2ldghE9_A")
-ADMIN_ID = 0  # ← ВСТАВЬ СВОЙ TELEGRAM ID (узнай через @userinfobot)
+ADMIN_ID = 5872315444  # ← ВСТАВЬ СВОЙ TELEGRAM ID (узнай через @userinfobot)
 
 # === ТОВАРЫ ===
 # Цены в звёздах: $1 ≈ 50 звёзд
